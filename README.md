@@ -17,7 +17,7 @@ A fully **responsive ticketing website** where users can browse and purchase eve
 - MySQL
 
 ## Preview
-![Preview of the website](link-to-screenshot-if-any)
+![Preview of the website](link-to-screenshot-if-any](https://github.com/JBrito7/E-Tickets-Store-on-progress-/tree/main/images)
 
 ## How to Run
 1. Clone the repository.
